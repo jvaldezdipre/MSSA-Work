@@ -1,0 +1,19 @@
+C:\Users\Jeffv\source\repos\SurvivalSpaceXTest\obj\Debug\SurvivalSpaceXTest.csprojAssemblyReference.cache
+C:\Users\Jeffv\source\repos\SurvivalSpaceXTest\obj\Debug\SurvivalSpaceXTest.csproj.CoreCompileInputs.cache
+C:\Users\Jeffv\source\repos\SurvivalSpaceXTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jeffv\source\repos\SurvivalSpaceXTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jeffv\source\repos\SurvivalSpaceXTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jeffv\source\repos\SurvivalSpaceXTest\bin\Debug\SurvivalSpaceXTest.dll
+C:\Users\Jeffv\source\repos\SurvivalSpaceXTest\bin\Debug\SurvivalSpaceXTest.pdb
+C:\Users\Jeffv\source\repos\SurvivalSpaceXTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jeffv\source\repos\SurvivalSpaceXTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jeffv\source\repos\SurvivalSpaceXTest\bin\Debug\Survival Space X.exe
+C:\Users\Jeffv\source\repos\SurvivalSpaceXTest\bin\Debug\SurvivalSpaceXLibrary.dll
+C:\Users\Jeffv\source\repos\SurvivalSpaceXTest\bin\Debug\Survival Space X.pdb
+C:\Users\Jeffv\source\repos\SurvivalSpaceXTest\bin\Debug\Survival Space X.exe.config
+C:\Users\Jeffv\source\repos\SurvivalSpaceXTest\bin\Debug\SurvivalSpaceXLibrary.pdb
+C:\Users\Jeffv\source\repos\SurvivalSpaceXTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jeffv\source\repos\SurvivalSpaceXTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jeffv\source\repos\SurvivalSpaceXTest\obj\Debug\SurvivalSpaceXTest.csproj.CopyComplete
+C:\Users\Jeffv\source\repos\SurvivalSpaceXTest\obj\Debug\SurvivalSpaceXTest.dll
+C:\Users\Jeffv\source\repos\SurvivalSpaceXTest\obj\Debug\SurvivalSpaceXTest.pdb

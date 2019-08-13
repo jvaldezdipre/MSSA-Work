@@ -1,0 +1,18 @@
+C:\Users\Jeffv\source\repos\SurvivalSpaceXLibrary\bin\Debug\SurvivalSpaceXLibrary.dll
+C:\Users\Jeffv\source\repos\SurvivalSpaceXLibrary\bin\Debug\SurvivalSpaceXLibrary.pdb
+C:\Users\Jeffv\source\repos\SurvivalSpaceXLibrary\obj\Debug\SurvivalSpaceXLibrary.csprojAssemblyReference.cache
+C:\Users\Jeffv\source\repos\SurvivalSpaceXLibrary\obj\Debug\SurvivalSpaceXLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jeffv\source\repos\SurvivalSpaceXLibrary\obj\Debug\SurvivalSpaceXLibrary.dll
+C:\Users\Jeffv\source\repos\SurvivalSpaceXLibrary\obj\Debug\SurvivalSpaceXLibrary.pdb
+C:\Users\jeffs\Desktop\Microsoft Press\SurvivalSpaceXLibrary\bin\Debug\SurvivalSpaceXLibrary.dll
+C:\Users\jeffs\Desktop\Microsoft Press\SurvivalSpaceXLibrary\bin\Debug\SurvivalSpaceXLibrary.pdb
+C:\Users\jeffs\Desktop\Microsoft Press\SurvivalSpaceXLibrary\obj\Debug\SurvivalSpaceXLibrary.csprojAssemblyReference.cache
+C:\Users\jeffs\Desktop\Microsoft Press\SurvivalSpaceXLibrary\obj\Debug\SurvivalSpaceXLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jeffs\Desktop\Microsoft Press\SurvivalSpaceXLibrary\obj\Debug\SurvivalSpaceXLibrary.dll
+C:\Users\jeffs\Desktop\Microsoft Press\SurvivalSpaceXLibrary\obj\Debug\SurvivalSpaceXLibrary.pdb
+C:\Users\Jeffv\Desktop\Microsoft School Work\Space Game\SurvivalSpaceXLibrary\obj\Debug\SurvivalSpaceXLibrary.csprojAssemblyReference.cache
+C:\Users\Jeffv\Desktop\Microsoft School Work\Space Game\SurvivalSpaceXLibrary\obj\Debug\SurvivalSpaceXLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jeffv\Desktop\Microsoft School Work\Space Game\SurvivalSpaceXLibrary\obj\Debug\SurvivalSpaceXLibrary.dll
+C:\Users\Jeffv\Desktop\Microsoft School Work\Space Game\SurvivalSpaceXLibrary\obj\Debug\SurvivalSpaceXLibrary.pdb
+C:\Users\Jeffv\Desktop\Microsoft School Work\Space Game\SurvivalSpaceXLibrary\bin\Debug\SurvivalSpaceXLibrary.dll
+C:\Users\Jeffv\Desktop\Microsoft School Work\Space Game\SurvivalSpaceXLibrary\bin\Debug\SurvivalSpaceXLibrary.pdb
