@@ -1,2 +1,1 @@
-#MSSA Projects
-This is all my MSSA work ive done during the course
+This is all my MSSA work i have done during the course
